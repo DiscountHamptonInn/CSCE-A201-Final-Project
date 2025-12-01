@@ -1,7 +1,4 @@
 # CSCE-A201-Final-Project
-A sudoku puzzle generator that is guaranteed to only have one valid solution.
-
-Simply compile and run the game the same way you would any C++ program. Be sure to include the "getinput.h" header file in the working directory.
 
 The purpose of this project is to generate a sudoku puzzle that is guaranteed to only have one valid solution and allow the user to play it. Be sure to include the "getinput.h" header file in the working directory. Once included, you run it the same way you would run any C++ program, using 
 any C++ IDE appropriately. When ran, you can play it by filling in each square according the rules of sudoku, but must follow the format given by the program ("row,col=symbol" where symbol is the number you want to fill in, row is the row of the empty spot you want to fill in, and col is the 
